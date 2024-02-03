@@ -1,4 +1,4 @@
-# habits
+# Habits
 The habits app we use to get rid of our bad habits and make good ones
 ## Why? 
 Because we want to change our habits. We want to get rid of bad habits and replace them with good habits 
